@@ -1,0 +1,4 @@
+sigmoid
+sigmoid
+784 80 24 10
+0.1
